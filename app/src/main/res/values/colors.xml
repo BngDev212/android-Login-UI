@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- blue -->
+     <color name="startColor">#0066ff</color>
+     <color name="endColor"> #66d9ff</color>
+     <color name="ic_tintcolor">#5FD0FF</color>
+
+    <!-- green -->
+
+    <!-- <color name="ic_tintcolor">#66ff99</color> -->
+    <!-- <color name="startColor">#009933</color> -->
+    <!-- <color name="endColor">#ccffff</color> -->
+
+</resources>
